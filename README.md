@@ -1,3 +1,21 @@
+# Academoji
+
+A [Gitmoji](https://gitmoji.dev) fork to provide guidelines on *the use of emojis in the commit messages of your academic projects*.
+Example of such project may include:
+- the source of your last academic paper;
+- the manuscript of your Master/PhD thesis;
+- your research proposal;
+- a grant appiclation;
+- and so much more...
+
+Because forking repositories is the kind of thing you do on a whim, I've not taken the time to do this yet.
+You have ideas or time to spend, please reach out:
+- which emoji should go with which message (making corrections, reviewing work, writing analysis, updating graphs, and so on);
+- updating the website to deploy on Github Pages;
+- other...
+
+---
+
 <p align="center">
 	<a href="https://gitmoji.dev">
 		<img src="https://cloud.githubusercontent.com/assets/7629661/20073135/4e3db2c2-a52b-11e6-85e1-661a8212045a.gif" width="456" alt="gitmoji">
